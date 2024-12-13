@@ -5,7 +5,7 @@ Technologies Used • Backend: Flask,python • API: OpenAI API for image analys
 
 **Installation:**
 
-1.Download the zip file: or bash Copy code ‘git clone https://github.com/Saichethanreddynayini808/FDA-product-code-generator.git’
+1.Download the zip file: or bash Copy code ‘git clone https://github.com/Saichethanreddynayini808/FDA_label_Recognistion.git’
 2.Install dependencies: bash Copy code pip install -r requirements.txt 
 3.API Key Configuration: Copy the openai key and paste it in app.py Copy code client = OpenAI( api_key="your api key here" # replace with your actual key )
 
